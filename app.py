@@ -5,7 +5,7 @@ app = Flask(__name__)
 def hello():
     html_content = '''
     <html>
-      <head><title>Hello Kubernetes</title></head>
+      <head><title>Hello Kubernetes - automated</title></head>
       <body style="background-color:black; color:white; display:flex; justify-content:center; align-items:center; height:100vh; margin:0;">
         <h1>Hello, Kubernetes!</h1>
       </body>
