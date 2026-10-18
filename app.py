@@ -8,6 +8,7 @@ def hello():
       <head><title>Hello Kubernetes - automated</title></head>
       <body style="background-color:black; color:white; display:flex; justify-content:center; align-items:center; height:100vh; margin:0;">
         <h1>Hello, Kubernetes! - automated</h1>
+        <h1>Hello, Kubernetes! - automated</h1>
       </body>
     </html>
     '''
